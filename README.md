@@ -9,7 +9,7 @@ Bitsadmin command to exfiltrate internal data outside the enterprise network
 --------------------------------Server-side----------------------------------------------
 
 
-First things first: Set up an EC2 instance or any server publicly accessible on which python should be installed. Dowmload the python implementation of bitsadmin server.
+First things first: Set up an EC2 instance or any server which is  publicly accessible on which python should be installed. Dowmload the python implementation of bitsadmin server.
 Host the server on the EC2 instance with command like <python simplebitsServer.py 443>
 
 
