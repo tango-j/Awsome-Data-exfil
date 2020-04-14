@@ -15,6 +15,7 @@ Host the server on the EC2 instance with command like <python simplebitsServer.p
 
 --------------------------------Client-side----------------------------------------------
 
+bitsadmin /create Job
 
 bitsadmin /setproxysettings Job PRECONFIG
 
